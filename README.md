@@ -21,7 +21,7 @@ By doing so, QPCA can efficiently find dominant eigenvectors of large covariance
 
 ---
 
-## About This Notebook / Project
+## About This Notebook 
 
 This notebook contains two main parts that help illustrate PCA and QPCA concepts visually:
 
